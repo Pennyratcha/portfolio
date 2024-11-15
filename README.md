@@ -23,6 +23,6 @@
 
 ## Projects
 ### Analyzing Hotel Booking Cancellation Rates Using Logistic Regression
-[Download]()
+[Download](https://github.com/Pennyratcha/portfolio/blob/main/Hotel%20Booking%20Cancellation%20Project.ipynb)
 
 
